@@ -1,16 +1,20 @@
-# color_palette
+# Color palette 🎨
 
-A new Flutter project.
+## فكرة التطبيق
+تطبيق يساعدك على توليد ألوان متناسقة بصريًا سواء كنت مصمم أو مطور، وده من خلال اختيارات لأنماط الألوان وعددها، مع القدرة على تخصيصها وحفظها.
 
-## Getting Started
+## مميزات التطبيق
+- توليد 3 أو 6 ألوان متناسقة.
+- أنماط ألوان متنوعة (باردة، دافئة، أحادية، ساطعة، داكنة).
+- قفل الألوان اللي عجبتك وتوليد باقي الألوان من جديد.
+- تعديل الألوان يدويًا.
+- حفظ الألوان في المفضلة وحذفها.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## مدة التنفيذ
+مايو 2022 – يونيو 2022
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## صور من التطبيق
+![screenshot 1](screenshots/color1.png)
+![screenshot 2](screenshots/color2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
